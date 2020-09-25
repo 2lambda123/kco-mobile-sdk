@@ -19,6 +19,12 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages which this package depends on.
         .target(
             name: "KlarnaCheckoutSDK",
-            path: "ios")
+            path: "ios",
+            exclude: ["README.md"]
+        ),
+        .binaryTarget(
+            name: "SomeLocalBinaryPackage",
+            path: "ios/KlarnaCheckoutSDK.framework"
+        )
     ]
 )
