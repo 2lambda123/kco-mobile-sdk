@@ -4,5 +4,10 @@
 import PackageDescription
 
 let package = Package(
-    name: "KlarnaCheckoutSDK"
+    name: "KlarnaCheckoutSDK",
+    products: [
+       .library(
+           name: "KlarnaCheckoutSDK",
+           targets: ["KlarnaCheckoutSDK"]),
+     ]
 )
