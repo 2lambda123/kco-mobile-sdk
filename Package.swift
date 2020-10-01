@@ -23,8 +23,8 @@ let package = Package(
             exclude: ["README.md"]
         ),
         .binaryTarget(
-            name: "SomeLocalBinaryPackage",
-            path: "ios/KlarnaCheckoutSDK.framework"
+            name: "KlarnaCheckoutSDK",
+            path: "ios/XCFramework/KlarnaCheckoutSDK.zip"
         )
     ]
 )
