@@ -3,11 +3,11 @@
 ## Tech Stack
 2lambda123/kco-mobile-sdk is built on the following main stack:
 
-- [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
-- [Swift](https://developer.apple.com/swift/) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Swift](https://developer.apple.com/swift/) – Languages
+- [Gradle](https://www.gradle.org/) – Java Build Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -17,11 +17,11 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/kco-mobile-sdk is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/kco-mobile-sdk](https://github.com/2lambda123/kco-mobile-sdk)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|01/09/24 <br/>Report generated|
+|7<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
